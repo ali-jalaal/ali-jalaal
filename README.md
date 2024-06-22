@@ -13,7 +13,7 @@ into new languages and tools like Python and Flutter to push myself beyond my co
 
 👯 I’m looking to collaborate on identity and authorization solutions, specially those based on OAuth2, OIDC, and CIAM.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/ali-jalal/" style="font-weight: bold">LinkedIn</a>
+📫 How to reach me: <b><a href="https://www.linkedin.com/in/ali-jalal/">LinkedIn</a></b>
 
 ---
 
