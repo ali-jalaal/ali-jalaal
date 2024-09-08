@@ -11,7 +11,8 @@ participate in pair-programming with other engineers as part of Scrum and SAFe t
 ✨ I enjoy working with enterprise applications, open-source projects, and exploring new technologies. I have ventured 
 into new languages and tools like Python and Flutter to push myself beyond my comfort zone.🚀
 
-👯 I’m looking to collaborate on identity and authorization solutions, specially those based on OAuth2, OIDC, and CIAM.
+👯 I’m looking to collaborate on identity and authorization solutions, specially those based on OAuth2, OIDC, SCIM,
+CIAM, and OPA.
 
 📫 How to reach me: <b><a href="https://www.linkedin.com/in/ali-jalal/">LinkedIn</a></b>
 
