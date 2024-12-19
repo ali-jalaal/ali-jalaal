@@ -1,18 +1,16 @@
 ### Hi there 👋
-✨ I am a seasoned software engineer with over 16 years of work experience. I primarily work with the Java/Spring/Kotlin
-stack. I also possess experience in developing cloud-native applications leveraging Docker, Kubernetes, and AWS. 
-Additionally, I have expertise in front-end development using JS/TS/React. Moreover, I hold a strong interest in 
-software security concepts and have worked extensively with OAuth2 and PKI for several years.
+✨ I am a seasoned software engineer with over 15 years of work experience. I primarily work with the Java/Spring/Kotlin
+stack. I also have experience developing cloud-native applications leveraging Docker, Kubernetes, and AWS.
+Additionally, I have expertise in front-end development using JS/TS/React. Moreover, I am strongly interested in IAM
+concepts and have worked extensively with OAuth2, OIDC, CAS, and PKI for several years. I have ventured into new
+languages and tools like Python and Flutter to push myself beyond my comfort zone.🚀
 
-✨ For the past 11 years, I have served as a Senior Software Engineer across 4 companies. I have experience working with
-various software architectures, including microservices, monolithic, and modular-monolithic. I actively mentor and 
-participate in pair-programming with other engineers as part of Scrum and SAFe teams.
+✨ I have experience working with various software architectures, including microservices, monolithic, and
+modular-monolithic. I actively mentor and participate in team activities with other engineers as part of Scrum and
+SAFe teams.
 
-✨ I enjoy working with enterprise applications, open-source projects, and exploring new technologies. I have ventured 
-into new languages and tools like Python and Flutter to push myself beyond my comfort zone.🚀
-
-👯 I’m looking to collaborate on identity and authorization solutions, specially those based on OAuth2, OIDC, SCIM,
-CIAM, and OPA.
+👯 I enjoy working with enterprise applications and open-source projects and exploring new technologies, especially
+those related to IAM such as OAuth2, OIDC, SCIM, CIAM, and OPA
 
 📫 How to reach me: <b><a href="https://www.linkedin.com/in/ali-jalal/">LinkedIn</a></b>
 
