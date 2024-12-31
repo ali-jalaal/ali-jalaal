@@ -9,10 +9,10 @@ languages and tools like Python and Flutter to push myself beyond my comfort zon
 modular-monolithic. I actively mentor and participate in team activities with other engineers as part of Scrum and
 SAFe teams.
 
-👯 I enjoy working with enterprise applications and open-source projects and exploring new technologies, especially
-those related to IAM such as OAuth2, OIDC, SCIM, CIAM, and OPA
+👯 I enjoy working on scalable applications and open-source projects and exploring new technologies, especially
+those related to IAM such as OAuth2, OIDC, SCIM, Keycloak, and OPA.
 
-📫 How to reach me: <b><a href="https://www.linkedin.com/in/ali-jalal/">LinkedIn</a></b>
+📫 How to reach me? <b><a href="https://www.linkedin.com/in/ali-jalal/">LinkedIn</a></b>
 
 ---
 
